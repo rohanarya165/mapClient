@@ -1,0 +1,179 @@
+{
+  "app": {
+    "name": "Client Map"
+  },
+  "core": {
+    "actions": {},
+    "labels": {},
+    "formLabels": {},
+    "validations": {},
+    "placeholders": {},
+    "msgs": {
+      "info": {},
+      "warning": {},
+      "error": {},
+      "success": {}
+    },
+    "tableHeaders": {}
+  },
+  "auth": {
+    "actions": {
+      "login": "Log-in"
+    },
+    "labels": {
+      "login": "Log-in"
+    },
+    "formLabels": {
+      "email": "User Name (e-mail)",
+      "rememberMe": "Remember me",
+      "password": "Password"
+    },
+    "validations": {
+      "enterEmail": "Enter E-mail",
+      "emailValid": "Enter Valid E-mail",
+      "enterPassword": "Enter password"
+    },
+    "placeholders": {},
+    "msgs": {
+      "info": {},
+      "warning": {},
+      "error": {},
+      "success": {}
+    },
+    "tableHeaders": {}
+  },
+  "savedUser": {
+    "actions": {
+      "delete": "Delete"
+    },
+    "labels": {
+      "pick": "Pick an account",
+      "enter": " To Enter Client Map",
+      "another": " Use Another Account"
+    },
+    "formLabels": {
+      "email": "User Name (e-mail)",
+      "rememberMe": "Remember me",
+      "password": "Password"
+    },
+    "validations": {},
+    "placeholders": {},
+    "msgs": {
+      "info": {},
+      "warning": {},
+      "error": {},
+      "success": {}
+    },
+    "tableHeaders": {}
+  },
+  "map": {
+    "actions": {
+      "list": " Client List",
+      "add": " Add Client"
+    },
+    "labels": {
+      "map": "Client Map"
+    },
+    "formLabels": {},
+    "validations": {},
+    "placeholders": {},
+    "msgs": {
+      "info": {},
+      "warning": {},
+      "error": {},
+      "success": {}
+    },
+    "tableHeaders": {}
+  },
+  "list": {
+    "actions": {
+      "map": " Map",
+      "add": " Add Client"
+    },
+    "labels": {
+      "list": " Client List"
+    },
+    "formLabels": {},
+    "validations": {},
+    "placeholders": {},
+    "msgs": {
+      "info": {},
+      "warning": {},
+      "error": {},
+      "success": {}
+    },
+    "tableHeaders": {}
+  },
+  "profile": {
+    "actions": {
+      "changePassword": " Change Password",
+      "back": " Back"
+    },
+    "labels": {
+      "profile": " Client Profile",
+      "name": " Name:",
+      "address": " Address:",
+      "email": " E-mail:"
+    },
+    "formLabels": {},
+    "validations": {},
+    "placeholders": {},
+    "msgs": {
+      "info": {},
+      "warning": {},
+      "error": {},
+      "success": {}
+    },
+    "tableHeaders": {}
+  },
+  "change": {
+    "actions": {
+      "update": "Update"
+    },
+    "labels": {
+      "changePassword": "Change Password"
+    },
+    "formLabels": {
+      "current": "Current Password",
+      "new": "New Password",
+      "confirm": "Confirm Password"
+    },
+    "validations": {},
+    "placeholders": {},
+    "msgs": {
+      "info": {},
+      "warning": {},
+      "error": {},
+      "success": {}
+    },
+    "tableHeaders": {}
+  },
+  "add": {
+    "actions": {
+      "cancel": "Cancel",
+      "submit": "Submit"
+    },
+    "labels": {
+      "add": " Client Add"
+    },
+    "formLabels": {
+      "name": " Name",
+      "address": " Address",
+      "status": " Status"
+    },
+    "validations": {
+      "exist": "E-mail already exist ",
+      "enterName": "Enter Name ",
+      "onlyCharacters": "Only 100 characters allowed ",
+      "special": "Password must be of 8 chars with 1 special, 1 num, 1 small & 1 capital"
+    },
+    "placeholders": {},
+    "msgs": {
+      "info": {},
+      "warning": {},
+      "error": {},
+      "success": {}
+    },
+    "tableHeaders": {}
+  }
+}
